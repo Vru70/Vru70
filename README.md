@@ -10,7 +10,7 @@
   <a title="Email" href="mailto:vrushabhuprikar02@gmail.com">
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Gmail_envelope_letter_email-512.png" width="50" height="50" />
   </a>
-  <a title="Twitter" href="https://twitter.com/vrushabhuprikar">
+  <a title="Twitter" href="https://twitter.com/Vru_70">
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Twitter_bird-512.png" width="50" height="50" />
   </a>
   <a title="Telegram" href="https://t.me/">
