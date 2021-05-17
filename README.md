@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vrushabh Uprikar</h1>
-<h3 align="center">A passionate Salesforce developer from India</h3>
+<h3 align="center">A passionate Salesforce Developer from India</h3>
 <p align="center">
   <a title="DEV.to" href="https://dev.to/vrushabhuprikar">
     <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png" width="50" height="50" />
