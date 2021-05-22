@@ -4,6 +4,10 @@
   <a title="View my Instagram profile" href="https://instagram.com/vru70">
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Instagram-512.png" width="50" height="50" />
   </a>
+  
+  <a title="Trailhead profile" href="https://trailblazer.me/id/vru70">
+    <img src="https://trailhead.salesforce.com/assets/trailhead-logo-5d3354441b4d8b97f21075b65e2aea266780d45943bbb36796ac25dc7cf4adc9.svg" width="60" height="50" />
+  </a>
   <a title="DEV.to" href="https://dev.to/vrushabhuprikar">
     <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png" width="50" height="50" />
   </a>
