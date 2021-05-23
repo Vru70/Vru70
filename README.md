@@ -5,7 +5,7 @@
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_LinkedIn-512.png" width="50" height="50" />
   </a>
   <a title="Email" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=vrushabhuprikar02@gmail.com">
-    <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png" width="50" height="50" />
+    <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width="50" height="50" />
   </a>
   <a title="View my Instagram profile" href="https://instagram.com/vru70">
     <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" width="50" height="50" />
