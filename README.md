@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vrushabh Uprikar</h1>
-<h3 align="center">A passionate Salesforce Developer from India</h3>
+<h3 align="center">A Salesforce Developer from India</h3>
 <p align="center">
   <a title="LinkedIn" href="https://linkedin.com/in/vrushabh-uprikar-704b93152/">
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_LinkedIn-512.png" width="50" height="50" />
