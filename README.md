@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vrushabh Uprikar</h1>
+<h1 align="center">Hi 👋, I'm Vrushabh</h1>
 <h3 align="center">A Salesforce Developer from India</h3>
 <p align="center">
   <a title="LinkedIn" href="https://linkedin.com/in/vrushabh-uprikar-704b93152/">
