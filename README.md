@@ -1,30 +1,63 @@
-<h1 align="center">Hi 👋, I'm Vrushabh</h1>
-<h3 align="center">A Salesforce Developer from Nagpur,India</h3>
-<p align="center">
-  <a title="LinkedIn" href="https://linkedin.com/in/vrushabh-uprikar-704b93152/">
-    <img src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_LinkedIn-512.png" width="50" height="50" />
-  </a>
-  <a title="Email" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=vrushabhuprikar02@gmail.com">
-    <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width="50" height="50" />
-  </a>
-  <a title="View my Instagram profile" href="https://instagram.com/vru70">
-    <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" width="50" height="50" />
-  </a>
-  <a title="Trailhead profile" href="https://trailblazer.me/id/vru70">
-    <img src="https://trailhead.salesforce.com/assets/trailhead-logo-5d3354441b4d8b97f21075b65e2aea266780d45943bbb36796ac25dc7cf4adc9.svg" width="60" height="50" />
-  </a>
-  <a title="DEV.to" href="https://dev.to/vrushabhuprikar">
-    <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png" width="50" height="50" />
-  </a>
-  <a title="Twitter" href="https://twitter.com/Vru_70">
-    <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png" width="50" height="50" />
-  </a>
-  <a title="HackerRank" href="https://www.hackerrank.com/vrushabhuprikar/">
-    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-128.png" width="50" height="50" />
-  </a>
-  <a title="Telegram" href="https://t.me/Vru70">
-    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-512.png" width="50" height="50" />
-  </a>
-  <br/>
-  <br/>
-</p>
+# Hi 👋, I'm Vrushabh
+
+### 🚀 Senior Salesforce Developer | Cloud Solutions Architect
+
+Specializing in **Lightning Web Components (LWC)**, **Apex Development**, **Salesforce Flows**, and **Enterprise Integrations**.
+
+---
+
+## 💼 Professional Profile
+
+- **Current Role:** Senior Salesforce Developer at Wipro
+- **Location:** Nagpur, India
+- **Experience:** 5+ years in Salesforce development
+- **Certifications:** 5x Salesforce Certified
+
+---
+
+## 🎯 Core Specializations
+
+✨ **Lightning Web Components** - Modern component development  
+⚡ **Apex Programming** - Complex business logic, triggers, batch processing  
+🔄 **Salesforce Flows** - Process automation, workflow optimization  
+🌐 **Service Cloud** - Case management, agent productivity  
+📡 **API Integrations** - REST/SOAP APIs, system integration  
+🔧 **DevOps & CI-CD** - SFDX, GitHub Actions, automated deployments  
+📊 **Data Management** - Change Data Capture (CDC), ETL processes  
+
+---
+
+## 🏆 Showcase Projects
+
+- **[LWC-Coding-Challenges](https://github.com/Vru70/LWC-Coding-Challenges)** - Interview prep resource for Salesforce LWC developers
+- **[Change-Data-Capture-Basics](https://github.com/Vru70/Change-Data-Capture-Basics)** - CDC implementation guide with EMP Connector
+- **[Salesforce-cicd-template](https://github.com/Vru70/salesforce-cicd-template)** - Production-ready CI/CD pipeline
+- **[Preview-and-Download-File](https://github.com/Vru70/Preview-and-Download-File)** - File management LWC component
+- **[Trailhead](https://github.com/Vru70/Trailhead)** - Salesforce Trailhead practice code
+
+---
+
+## 🛠️ Tech Stack
+
+**Salesforce:** LWC | Apex | SOQL | Flows | Service Cloud | SFDX  
+**Languages:** JavaScript | Java | HTML5 | CSS3  
+**Tools:** GitHub | Git | VS Code | GitHub Actions  
+
+---
+
+## 🌐 Connect With Me
+
+[LinkedIn](https://linkedin.com/in/vrushabh-uprikar-704b93152/) | [Twitter](https://twitter.com/Vru_70) | [DEV.to](https://dev.to/vrushabhuprikar) | [Email](mailto:vrushabhuprikar02@gmail.com) | [Trailhead](https://trailblazer.me/id/vru70) | [HackerRank](https://www.hackerrank.com/vrushabhuprikar)
+
+---
+
+## 🎓 Continuous Learning
+
+- 📚 Active in Salesforce Trailhead challenges
+- 💻 Contributing to open-source Salesforce projects  
+- 🔍 Exploring emerging Salesforce features (Agentforce, Flow enhancements)  
+- 🤝 Mentoring junior developers  
+
+---
+
+**"Innovation through Code, Impact through Solutions"** 🚀
