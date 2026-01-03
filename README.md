@@ -1,8 +1,7 @@
 # Hi 👋, I'm Vrushabh
 
-### 🚀 Senior Salesforce Developer | Cloud Solutions Architect
-
-Specializing in **Lightning Web Components (LWC)**, **Apex Development**, **Salesforce Flows**, and **Enterprise Integrations**.
+### 🚀 Senior Salesforce Developer
+Specializing in **Lightning Web Components (LWC)**, **Apex Development**, **Salesforce Flows**, and **Integrations**.
 
 ---
 
